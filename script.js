@@ -102,4 +102,9 @@ let appData = {
 // checkSavings();
 //appData.chooseOptExpenses();
 // appData.choseIcome();
-appData.showProp();
+//appData.showProp();
+
+let a = [1,2,3],
+    b = [1,2,3];
+
+    console.log(2&&3);
